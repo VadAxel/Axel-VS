@@ -59,13 +59,9 @@ body {
   margin: 0;
 }
 
-header{
-  width: auto;
-}
 nav{
   grid-column: 1/17 ;
   grid-row: 2/3 ;
-
 }
 
 #kubett {
