@@ -39,12 +39,13 @@ topnav. {
 #äpple {
   width: 100%;
   height: auto;
-  border-radius: 7px ;
-}
+  border-radius: 7px;
+ }
 
 .wireframe {
   border-radius: 5px;
   border: 3px solid black;
+  border-style: ridge;
 }
 
 #textruta {
