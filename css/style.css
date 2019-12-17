@@ -26,6 +26,10 @@ topnav. {
   width: 90%;
 }
 
+#svartknapp {
+  box-shadow: 0 2px 5px #000;
+}
+
 .topnav a:hover {
   background-color: #1d1b1b;
   color: white;
