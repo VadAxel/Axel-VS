@@ -6,10 +6,12 @@ body {
 
 
 header {
-  background-color: rgb(142, 142, 142);
+  background-color: #595757;
   padding: 10px;
   text-align: center;
   font-size: 40px;
+  box-shadow: 0 2px 5px #000;
+  margin-bottom: 2px;
 }
 
 topnav. {
