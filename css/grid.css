@@ -71,6 +71,7 @@ section /* nederdel */
     grid-column: 1/17;
     grid-row: 1/2;
     text-decoration: none;
+    font-size: 30px;
 
   }
 
@@ -109,8 +110,7 @@ section /* nederdel */
     grid-row: 24/28;
   }
 
-  section /* nederdel */
-    {
+  section /* nederdel */ {
     grid-column: 2/16;
     grid-row: 28/32;
   }
