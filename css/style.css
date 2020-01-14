@@ -4,13 +4,13 @@ body {
   background-color: rgba(245, 245, 245, 0.5);
 }
 
-
 header {
   background-color: #595757;
   padding: 10px;
   text-align: center;
   font-size: 40px;
-  box-shadow: 0 2px 5px #000;
+  text-shadow: -1px 0 rgba(245, 245, 245, 0.5), 0 1px rgba(245, 245, 245, 0.5), 1px 0 rgba(245, 245, 245, 0.5), 0 -1px rgba(245, 245, 245, 0.5);
+  box-shadow: 0 3px 5px #000;
   margin-bottom: 2px;
 }
 
@@ -49,7 +49,7 @@ topnav. {
   width: 100%;
   height: auto;
   border-radius: 7px;
- }
+}
 
 .wireframe {
   border-radius: 5px;
@@ -58,7 +58,6 @@ topnav. {
 }
 
 #textruta {
-
   border-radius: 25px;
   border: 3px solid black;
   padding: 5%;
@@ -66,12 +65,9 @@ topnav. {
   height: 30%;
   margin-left: 4%;
   margin-right: 5%;
-
 }
 
-
 #nederdel {
-
   border: 3px solid black;
   border-radius: 3px;
 }
@@ -128,8 +124,7 @@ topnav. {
 #kodhem {
   color: white;
   background: black;
-  padding: 3px ;
-
+  padding: 3px;
   text-decoration: none;
   position: absolute;
   margin: 0;
@@ -142,6 +137,6 @@ topnav. {
 }
 
 #kodhem:hover {
-  background-color:rgb(152, 152, 152) ;
+  background-color: rgb(152, 152, 152);
   color: white;
 }
