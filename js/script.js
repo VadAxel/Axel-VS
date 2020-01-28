@@ -1,3 +1,4 @@
+
 // Knapp för att scrolla hela vägen upp//
 
 mybutton = document.getElementById("myBtn");
