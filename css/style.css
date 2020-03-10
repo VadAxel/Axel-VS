@@ -45,6 +45,10 @@ topnav. {
   color: white;
 }
 
+.kodruta{
+  margin-left: 41%;
+}
+
 .äpple {
   width: 100%;
   height: auto;
@@ -57,7 +61,7 @@ topnav. {
   box-shadow: 0 2px 5px #000;
 }
 
-#textruta {
+.textruta {
   border-radius: 25px;
   border: 3px solid black;
   padding: 5%;
